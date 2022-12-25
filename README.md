@@ -52,4 +52,4 @@ A：现在看来是不会了，但我会持续关注官网，您也可以在http
 
 迅雷云盘下载源：https://pan.xunlei.com/s/VNK6MPPEqQGmqiu-VtfHsnmEA1?pwd=f7yh# （提取码：f7yh）
 
-
+百度网盘下载源: https://pan.baidu.com/s/1YoKAgWE5zlc3ucUfq2F5dA?pwd=n5i4 （提取码: n5i4）
