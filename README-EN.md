@@ -59,7 +59,7 @@ Baidu Online Disk: https://pan.baidu.com/s/1YoKAgWE5zlc3ucUfq2F5dA?pwd=n5i4 （�
 ### International download source
 We only support Google Drive now, more drive will be support in the future.
 
-Google Drive:https://drive.google.com/drive/folders/1HtNjjjgsq2r-eKAwT8XXjAHJjY4kQDiJ?usp=sharing
+Google Drive: https://drive.google.com/drive/folders/1HtNjjjgsq2r-eKAwT8XXjAHJjY4kQDiJ?usp=sharing
 
 ### Contact information
 Author：Jerry Wang
