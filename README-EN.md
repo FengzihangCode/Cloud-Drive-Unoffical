@@ -6,6 +6,7 @@ Part 1:
         - What you can contribute to
         - Common question
         - Download source in China
+        - International download source
         - Contact information
         - Other language
 
@@ -54,6 +55,11 @@ Chengtong Online Disk：https://url32.ctfile.com/d/41303632-53514885-71b950?p=18
 Xunlei Cloud Disk：https://pan.xunlei.com/s/VNK6MPPEqQGmqiu-VtfHsnmEA1?pwd=f7yh# （提取码：f7yh）
 
 Baidu Online Disk: https://pan.baidu.com/s/1YoKAgWE5zlc3ucUfq2F5dA?pwd=n5i4 （提取码: n5i4）
+
+### International download source
+We only support Google Drive now, more drive will be support in the future.
+
+Google Drive:https://drive.google.com/drive/folders/1HtNjjjgsq2r-eKAwT8XXjAHJjY4kQDiJ?usp=sharing
 
 ### Contact information
 Author：Jerry Wang
