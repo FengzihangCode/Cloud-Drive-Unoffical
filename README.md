@@ -44,12 +44,12 @@ A：现在看来是不会了，但我会持续关注官网，您也可以在http
 
 
 # 其它国内下载源
-很快会提供百度网盘及迅雷下载源，已经提供阿里云盘及城通网盘下载源。
+很快会提供百度网盘下载源，已经提供迅雷云盘、阿里云盘及城通网盘下载源。
 
 阿里云盘下载源：https://www.aliyundrive.com/s/KMP7eKDvDMs
 
 城通网盘下载源：https://url32.ctfile.com/d/41303632-53514885-71b950?p=1884 (访问密码: 1884)
 
-迅雷网盘下载源：https://pan.xunlei.com/s/VNK6MPPEqQGmqiu-VtfHsnmEA1?pwd=f7yh# （提取码：f7yh）
+迅雷云盘下载源：https://pan.xunlei.com/s/VNK6MPPEqQGmqiu-VtfHsnmEA1?pwd=f7yh# （提取码：f7yh）
 
 
