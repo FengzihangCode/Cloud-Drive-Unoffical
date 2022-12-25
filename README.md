@@ -46,4 +46,6 @@ Q：是否会提供其它国内下载源？
 
 A：很快会提供百度网盘、阿里云盘、城通网盘及迅雷下载源
 
+阿里云盘下载源：https://www.aliyundrive.com/s/KMP7eKDvDMs
+
 
