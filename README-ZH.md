@@ -56,7 +56,7 @@ A：现在看来是不会了，但我会持续关注官网，您也可以在http
 
 百度网盘下载源: https://pan.baidu.com/s/1YoKAgWE5zlc3ucUfq2F5dA?pwd=n5i4 （提取码: n5i4）
 
-### 其它国际下载源
+### 其它国际下载源（不推荐）
 目前仅支持Google Drive。
 
 Google Drive下载源：https://drive.google.com/drive/folders/1HtNjjjgsq2r-eKAwT8XXjAHJjY4kQDiJ?usp=sharing
