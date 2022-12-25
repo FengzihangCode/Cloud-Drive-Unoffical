@@ -10,7 +10,7 @@ Part 1:
         - Other language
 
 ---
-
+如果您需要中文版，请访问https://github.com/FengzihangCode/Cloud-Drive-Unoffical/blob/main/README-ZH.md 。
 # Part 1
 
 ## Basic Information
