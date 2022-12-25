@@ -26,5 +26,12 @@ For English people: I know you may can not understand Chinese, so pleaase move t
 
 # 常见问题
 Q：如何运行？
+
 A：源代码在Windows上用C++编写，可以直接在Visual Studio 2008或更高版本上编译并运行。
+
+
+
+Q：除了Windows，我可以在macOS或Linux上运行吗？
+
+A：按照道理来说是无法运行的，如果您使用CrossOver（macOS及Linux的一种wine），或是Linuxfx OS等类似的具有Windows运行库的操作系统，则可能会改善这个问题。
 
