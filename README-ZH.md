@@ -11,6 +11,8 @@
 
 ---
 
+If you need English version, please visit https://github.com/FengzihangCode/Cloud-Drive-Unoffical/blob/main/README-EN.md .
+
 # 第一节
 
 ## 基本信息
