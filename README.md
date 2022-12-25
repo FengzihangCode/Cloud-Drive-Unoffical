@@ -50,5 +50,6 @@ A：现在看来是不会了，但我会持续关注官网，您也可以在http
 
 城通网盘下载源：https://url32.ctfile.com/d/41303632-53514885-71b950?p=1884 (访问密码: 1884)
 
+迅雷网盘下载源：https://pan.xunlei.com/s/VNK6MPPEqQGmqiu-VtfHsnmEA1?pwd=f7yh# （提取码：f7yh）
 
 
