@@ -17,8 +17,6 @@ If you need English version, please visit https://github.com/FengzihangCode/Clou
 
 ## 基本信息
 
-For English people: I know you may can not understand Chinese, so pleaase move to the last part "Language", I will translate this file to English as soon as possible.
-
 ### 源代码的来源
 源代码来自于 https://www.driveoncloud.com 。
 
