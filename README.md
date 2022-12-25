@@ -45,7 +45,7 @@ A：现在看来是不会了，但我会持续关注官网，您也可以在http
 
 
 # 其它国内下载源
-很快会提供百度网盘下载源，已经提供迅雷云盘、阿里云盘及城通网盘下载源。
+很快会提供更多下载源，已经提供迅雷云盘、阿里云盘、城通网盘及百度网盘下载源。
 
 阿里云盘下载源：https://www.aliyundrive.com/s/KMP7eKDvDMs
 
@@ -57,6 +57,9 @@ A：现在看来是不会了，但我会持续关注官网，您也可以在http
 
 # 联系方式
 作者：Jerry Wang
+
 邮箱：jerrywjh@gmail.com
+
 脸书：http://facebook.com/jerrywjh
+
 推特：http://twitter.com/GDocsDrive
