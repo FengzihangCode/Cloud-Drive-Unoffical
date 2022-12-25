@@ -5,7 +5,7 @@
         - 源代码的来源及开源协议
         - 您可以为之贡献的
         - 常见问题
-        - 语言 Language
+        - 其它语言 Other language
 
 ---
 
@@ -34,4 +34,16 @@ A：源代码在Windows上用C++编写，可以直接在Visual Studio 2008或更
 Q：除了Windows，我可以在macOS或Linux上运行吗？
 
 A：按照道理来说是无法运行的，如果您使用CrossOver（macOS及Linux的一种wine），或是Linuxfx OS等类似的具有Windows运行库的操作系统，则可能会改善这个问题。
+
+
+
+Q：官方是否继续提供更新？
+
+A：现在看来是不会了，但我会持续关注官网，您也可以在https://www.driveoncloud.com/download/clouddrive_source.zip 下载官方最新版。
+
+
+Q：是否会提供其它国内下载源？
+
+A：很快会提供百度网盘、阿里云盘、城通网盘及迅雷下载源
+
 
